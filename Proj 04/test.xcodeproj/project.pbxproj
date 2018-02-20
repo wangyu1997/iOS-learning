@@ -14,17 +14,6 @@
 		1E9F8323203A9A8000D909FC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1E9F8321203A9A8000D909FC /* LaunchScreen.storyboard */; };
 		1E9F832E203A9A8100D909FC /* testTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E9F832D203A9A8100D909FC /* testTests.swift */; };
 		1E9F8339203A9A8100D909FC /* testUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E9F8338203A9A8100D909FC /* testUITests.swift */; };
-		1EFAF09A203AA90700EF5B75 /* nssl0049.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF090203AA90700EF5B75 /* nssl0049.jpg */; };
-		1EFAF09B203AA90700EF5B75 /* nssl0046.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF091203AA90700EF5B75 /* nssl0046.jpg */; };
-		1EFAF09C203AA90700EF5B75 /* nssl0091.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF092203AA90700EF5B75 /* nssl0091.jpg */; };
-		1EFAF09D203AA90700EF5B75 /* nssl0045.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF093203AA90700EF5B75 /* nssl0045.jpg */; };
-		1EFAF09E203AA90700EF5B75 /* nssl0051.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF094203AA90700EF5B75 /* nssl0051.jpg */; };
-		1EFAF09F203AA90700EF5B75 /* nssl0041.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF095203AA90700EF5B75 /* nssl0041.jpg */; };
-		1EFAF0A0203AA90700EF5B75 /* nssl0042.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF096203AA90700EF5B75 /* nssl0042.jpg */; };
-		1EFAF0A1203AA90700EF5B75 /* nssl0043.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF097203AA90700EF5B75 /* nssl0043.jpg */; };
-		1EFAF0A2203AA90700EF5B75 /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF098203AA90700EF5B75 /* nssl0033.jpg */; };
-		1EFAF0A3203AA90700EF5B75 /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1EFAF099203AA90700EF5B75 /* nssl0034.jpg */; };
-		1EFAF0A7203AFB5900EF5B75 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EFAF0A6203AFB5900EF5B75 /* DetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,17 +47,6 @@
 		1E9F8334203A9A8100D909FC /* testUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1E9F8338203A9A8100D909FC /* testUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testUITests.swift; sourceTree = "<group>"; };
 		1E9F833A203A9A8100D909FC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1EFAF090203AA90700EF5B75 /* nssl0049.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0049.jpg; sourceTree = "<group>"; };
-		1EFAF091203AA90700EF5B75 /* nssl0046.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0046.jpg; sourceTree = "<group>"; };
-		1EFAF092203AA90700EF5B75 /* nssl0091.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0091.jpg; sourceTree = "<group>"; };
-		1EFAF093203AA90700EF5B75 /* nssl0045.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0045.jpg; sourceTree = "<group>"; };
-		1EFAF094203AA90700EF5B75 /* nssl0051.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0051.jpg; sourceTree = "<group>"; };
-		1EFAF095203AA90700EF5B75 /* nssl0041.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0041.jpg; sourceTree = "<group>"; };
-		1EFAF096203AA90700EF5B75 /* nssl0042.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0042.jpg; sourceTree = "<group>"; };
-		1EFAF097203AA90700EF5B75 /* nssl0043.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0043.jpg; sourceTree = "<group>"; };
-		1EFAF098203AA90700EF5B75 /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
-		1EFAF099203AA90700EF5B75 /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
-		1EFAF0A6203AFB5900EF5B75 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,12 +99,10 @@
 			children = (
 				1E9F8318203A9A8000D909FC /* AppDelegate.swift */,
 				1E9F831A203A9A8000D909FC /* ViewController.swift */,
-				1EFAF0A6203AFB5900EF5B75 /* DetailViewController.swift */,
 				1E9F831C203A9A8000D909FC /* Main.storyboard */,
 				1E9F831F203A9A8000D909FC /* Assets.xcassets */,
 				1E9F8321203A9A8000D909FC /* LaunchScreen.storyboard */,
 				1E9F8324203A9A8000D909FC /* Info.plist */,
-				1EFAF08F203AA90700EF5B75 /* Content */,
 			);
 			path = test;
 			sourceTree = "<group>";
@@ -147,23 +123,6 @@
 				1E9F833A203A9A8100D909FC /* Info.plist */,
 			);
 			path = testUITests;
-			sourceTree = "<group>";
-		};
-		1EFAF08F203AA90700EF5B75 /* Content */ = {
-			isa = PBXGroup;
-			children = (
-				1EFAF090203AA90700EF5B75 /* nssl0049.jpg */,
-				1EFAF091203AA90700EF5B75 /* nssl0046.jpg */,
-				1EFAF092203AA90700EF5B75 /* nssl0091.jpg */,
-				1EFAF093203AA90700EF5B75 /* nssl0045.jpg */,
-				1EFAF094203AA90700EF5B75 /* nssl0051.jpg */,
-				1EFAF095203AA90700EF5B75 /* nssl0041.jpg */,
-				1EFAF096203AA90700EF5B75 /* nssl0042.jpg */,
-				1EFAF097203AA90700EF5B75 /* nssl0043.jpg */,
-				1EFAF098203AA90700EF5B75 /* nssl0033.jpg */,
-				1EFAF099203AA90700EF5B75 /* nssl0034.jpg */,
-			);
-			path = Content;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -273,18 +232,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1EFAF09B203AA90700EF5B75 /* nssl0046.jpg in Resources */,
-				1EFAF0A2203AA90700EF5B75 /* nssl0033.jpg in Resources */,
-				1EFAF09E203AA90700EF5B75 /* nssl0051.jpg in Resources */,
-				1EFAF09C203AA90700EF5B75 /* nssl0091.jpg in Resources */,
-				1EFAF0A1203AA90700EF5B75 /* nssl0043.jpg in Resources */,
-				1EFAF0A3203AA90700EF5B75 /* nssl0034.jpg in Resources */,
-				1EFAF09A203AA90700EF5B75 /* nssl0049.jpg in Resources */,
-				1EFAF09F203AA90700EF5B75 /* nssl0041.jpg in Resources */,
-				1EFAF0A0203AA90700EF5B75 /* nssl0042.jpg in Resources */,
 				1E9F8323203A9A8000D909FC /* LaunchScreen.storyboard in Resources */,
 				1E9F8320203A9A8000D909FC /* Assets.xcassets in Resources */,
-				1EFAF09D203AA90700EF5B75 /* nssl0045.jpg in Resources */,
 				1E9F831E203A9A8000D909FC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -310,7 +259,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1EFAF0A7203AFB5900EF5B75 /* DetailViewController.swift in Sources */,
 				1E9F831B203A9A8000D909FC /* ViewController.swift in Sources */,
 				1E9F8319203A9A8000D909FC /* AppDelegate.swift in Sources */,
 			);
